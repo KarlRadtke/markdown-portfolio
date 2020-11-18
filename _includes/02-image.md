@@ -1,1 +1,1 @@
-! [myself] (https://octodex.github.com/images/yaktocat.png)
+![myself](https://octodex.github.com/images/yaktocat.png)
